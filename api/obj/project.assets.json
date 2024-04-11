@@ -4581,19 +4581,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eoker\\.nuget\\packages\\": {}
+    "C:\\Users\\SoftDevEmma\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eoker\\OneDrive\\Desktop\\dotnet-api\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\SoftDevEmma\\Desktop\\dotnet-api\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\eoker\\OneDrive\\Desktop\\dotnet-api\\api\\api.csproj",
-      "packagesPath": "C:\\Users\\eoker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eoker\\OneDrive\\Desktop\\dotnet-api\\api\\obj\\",
+      "projectPath": "C:\\Users\\SoftDevEmma\\Desktop\\dotnet-api\\api\\api.csproj",
+      "packagesPath": "C:\\Users\\SoftDevEmma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SoftDevEmma\\Desktop\\dotnet-api\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\eoker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SoftDevEmma\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4613,11 +4613,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4666,7 +4661,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
